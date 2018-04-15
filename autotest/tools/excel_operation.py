@@ -47,4 +47,4 @@ if __name__ == '__main__':
     data = lists[0][u"请求参数"]
 
     r = requests.post(url,data,headers=headers)
-    print r.text
+    #print r.text
