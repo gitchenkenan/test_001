@@ -1,0 +1,35 @@
+{"context":{"tenantId": "466",
+		"appId": "CRM",
+		"userId": "1000"
+	},
+	"productLicensePojo":{
+		"licenseType":"1",
+		"startTime":979289751366,
+		"expiredTime":1575133261000,
+		"gracePeriod":5,
+		"actualExpiredTime":0,
+		"maxHeadCount":"200",
+		"productName":"CRM",
+		"productVersion":"standardpro_edition",
+		"productType":"1",
+		"productInfoPojo":{
+			"unitPrice":0,
+			"moduleInfoPojoList":[
+				{
+					"moduleName":"BPM",
+					"moduleCode":"bpm",
+					"moduleParaPojos":[
+						{
+							"paraKey":"bpm_process_limit",
+							"paraValue":"300",
+							"paraType":"0"
+
+						}
+						]
+
+				}
+				]
+
+		}
+		}
+}
